@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @archer247
 - 👀 I’m interested in developing awesome web apps
 - 🌱 I’m currently learning advance php backend technologies
-- 💞️ I’m looking to collaborate on Jobsity
 - 📫 How to reach me david.villafuerte.v@gmail.com
 
 <!---
